@@ -1,6 +1,6 @@
 use <./libraries/OpenSCAD/publicDomainGearV1.1.scad>
 gear(
-	mm_per_tooth = 6.6,
+	mm_per_tooth = 8.69,
 	number_of_teeth = 13,
 	thickness = 14.94,
 	hole_diameter = 13.72,
